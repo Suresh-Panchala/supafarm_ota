@@ -1,0 +1,7 @@
+{
+  "name": "supafarm-gateway",
+  "board": "STM32F103CBT6",
+  "file": "firmware.bin",
+  "size": 67896,
+  "crc": "16BC5B5C"
+}
