@@ -3,5 +3,5 @@
   "board": "STM32F103CBT6",
   "file": "firmware.bin",
   "size": 70160,
-  "crc": "258C8C4E"
+  "crc": "38B5A99A"
 }
